@@ -8,4 +8,3 @@ def test_add():
 @pytest.mark.skip(reason="This test should always fail.")
 def test_bad_add():
     assert bad_add(4, 5) == 9
-
