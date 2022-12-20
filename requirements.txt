@@ -1,6 +1,6 @@
-numpy==1.21.6
+black==22.12.0
 flake8==6.0.0
 isort==5.11.3
-black==22.12.0
 mypy==0.991
+numpy==1.21.6
 pre-commit==2.20.0
