@@ -1,4 +1,5 @@
 import pytest
+
 from mypackage.exception import raise_exception
 
 

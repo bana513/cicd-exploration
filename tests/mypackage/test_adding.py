@@ -1,4 +1,5 @@
 import pytest
+
 from mypackage.adding import add, bad_add
 
 
